@@ -1,4 +1,4 @@
-class RegistrationContrller < RegistrationContrller
+class RegistrationContrller < Devise::RegistrationContrller
 
     private
     
